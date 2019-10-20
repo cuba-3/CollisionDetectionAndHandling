@@ -1,0 +1,2 @@
+# CollisionDetectionAndHandling
+Before the user presses the ‘l’ key to launch the bunny, the bunny does rotational motion only at its starting position. Once the user presses the ‘l’ key, the bunny is launched and both linear and rotational motions are simulated. The bunny collides with the wall and the floor, and gradually comes to rest on the floor.  When the user presses the ‘r’ key, the bunny is reset to its starting position and it waits for the next launch.
